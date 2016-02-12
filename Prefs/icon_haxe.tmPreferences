@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
     <key>scope</key>
-    <string>source.mustache, mustache.js, source.hbs, Handlebars.js</string>
+    <string>source.haxe</string>
     <key>settings</key>
     <dict>
         <key>icon</key>
-        <string>file_type_mustache</string>
+        <string>file_type_haxe</string>
     </dict>
 </dict>
 </plist>
