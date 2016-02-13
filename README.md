@@ -1,6 +1,6 @@
 # itg.flat Side Bar Icons
 
-This is not Package. only Sublime Text 3.
+This is not Package. Sublime Text 3 only.
 
 
 When using theme the [Theme - itg.flat](https://github.com/itsthatguy/theme-itg-flat), Add sidebar icons.
