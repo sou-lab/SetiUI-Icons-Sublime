@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>scope</key>
-    <string>source.git, source.gitignore</string>
+    <string>source.git, source.gitignore, source.gitkeep, source.gitconfig, source.gitblame, source.gitcommit, source.gitgraph, source.gitattributes, source.gitmodules, source.git-blame, source.git-commit, source.git-graph</string>
     <key>settings</key>
     <dict>
         <key>icon</key>
