@@ -3,7 +3,7 @@
 This is not Package.
 
 
-When using theme the [Theme - itg.flat](https://github.com/itsthatguy/theme-itg-flat) Sublime Text, Add sidebar icons.
+When using theme the [Theme - itg.flat](https://github.com/itsthatguy/theme-itg-flat) Sublime Text 3, Add sidebar icons.
 
 
 ![itg.flat Side Bar Icons](screenshot-1.png)
