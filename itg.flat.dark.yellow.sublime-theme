@@ -1,6 +1,27 @@
 [
+ {
+    "class": "sidebar_tree",
+    "indent_offset": 8,
+    "indent": 15
+  },
+  {
+    "class": "disclosure_button_control",
+    "parents": [{"class": "tree_row"}],
+    "content_margin": 0,
+  },
   {
     "class": "icon_file_type",
-    "content_margin": [8,8]
+    "content_margin": [8, 8]
+  },
+  {
+    "class": "icon_folder",
+    "layer0.texture": "Theme - itg.flat/assets/group-closed.png",
+    "layer0.opacity": 0.8,
+    "content_margin": [9, 6]
+  },
+  {
+    "class": "icon_folder",
+    "parents": [{"attributes": ["expanded"]}],
+    "layer0.texture": "Theme - itg.flat/assets/group-open.png"
   }
 ]
