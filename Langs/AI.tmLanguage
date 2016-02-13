@@ -12,7 +12,7 @@
 	<array>
 		<dict>
 			<key>include</key>
-			<string></string>
+			<string>source.ai</string>
 		</dict>
 	</array>
 	<key>scopeName</key>

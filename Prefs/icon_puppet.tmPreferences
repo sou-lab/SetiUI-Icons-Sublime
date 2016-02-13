@@ -3,7 +3,7 @@
 <plist version="1.0">
     <dict>
         <key>scope</key>
-        <string>source.puppet</string>
+        <string>source.pp, source.puppet</string>
         <key>settings</key>
         <dict>
             <key>icon</key>

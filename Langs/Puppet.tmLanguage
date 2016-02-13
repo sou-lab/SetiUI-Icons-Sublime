@@ -13,10 +13,10 @@
 	<array>
 		<dict>
 			<key>include</key>
-			<string>source.css</string>
+			<string>source.pp</string>
 		</dict>
 	</array>
 	<key>scopeName</key>
-	<string>source.css, source.puppet</string>
+	<string>source.pp, source.puppet</string>
 </dict>
 </plist>

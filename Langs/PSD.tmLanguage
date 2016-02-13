@@ -12,7 +12,7 @@
 	<array>
 		<dict>
 			<key>include</key>
-			<string></string>
+			<string>source.psd</string>
 		</dict>
 	</array>
 	<key>scopeName</key>
