@@ -8,6 +8,13 @@
 		<array>
 			<string>vue</string>
 		</array>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>include</key>
+			<string>source.js</string>
+		</dict>
+	</array>
 		<key>scopeName</key>
 		<string>source.vue</string>
 	</dict>

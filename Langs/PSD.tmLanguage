@@ -8,13 +8,6 @@
 	<array>
 		<string>psd</string>
 	</array>
-	<key>patterns</key>
-	<array>
-		<dict>
-			<key>include</key>
-			<string>source.psd</string>
-		</dict>
-	</array>
 	<key>scopeName</key>
 	<string>source.psd</string>
 </dict>

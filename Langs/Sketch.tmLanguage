@@ -8,13 +8,6 @@
 	<array>
 		<string>sketch</string>
 	</array>
-	<key>patterns</key>
-	<array>
-		<dict>
-			<key>include</key>
-			<string></string>
-		</dict>
-	</array>
 	<key>scopeName</key>
 	<string>source.sketch</string>
 </dict>

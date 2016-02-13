@@ -12,7 +12,7 @@
 	<array>
 		<dict>
 			<key>include</key>
-			<string>source.ts</string>
+			<string>source.js</string>
 		</dict>
 	</array>
 	<key>scopeName</key>

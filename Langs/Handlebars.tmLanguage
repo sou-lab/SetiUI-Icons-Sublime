@@ -3,12 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Ai</string>
+	<string>Handlebars</string>
 	<key>fileTypes</key>
 	<array>
-		<string>ai</string>
+		<string>hbs</string>
+	</array>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>include</key>
+			<string>source.js</string>
+		</dict>
 	</array>
 	<key>scopeName</key>
-	<string>source.ai</string>
+	<string>source.hbs</string>
 </dict>
 </plist>

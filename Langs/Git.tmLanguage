@@ -19,24 +19,6 @@
 		<string>.git-commit</string>
 		<string>.git-graph</string>
 	</array>
-	<key>patterns</key>
-	<array>
-		<dict>
-			<key>include</key>
-			<string>source.git</string>
-			<string>source.gitignore</string>
-			<string>source.gitkeep</string>
-			<string>source.gitconfig</string>
-			<string>source.gitblame</string>
-			<string>source.gitcommit</string>
-			<string>source.gitgraph</string>
-			<string>source.gitattributes</string>
-			<string>source.gitmodules</string>
-			<string>source.git-blame</string>
-			<string>source.git-commit</string>
-			<string>source.git-graph</string>
-		</dict>
-	</array>
 	<key>scopeName</key>
 	<string>source.git</string>
 </dict>

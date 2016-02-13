@@ -8,13 +8,6 @@
 		<array>
 			<string>svg</string>
 		</array>
-		<key>patterns</key>
-		<array>
-			<dict>
-				<key>include</key>
-				<string>source.svg</string>
-			</dict>
-		</array>
 		<key>scopeName</key>
 		<string>source.svg</string>
 	</dict>
