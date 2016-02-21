@@ -3,7 +3,7 @@
 <plist version="1.0">
     <dict>
         <key>scope</key>
-        <string>source.vue</string>
+        <string>text.html.vue, text.vue</string>
         <key>settings</key>
         <dict>
             <key>icon</key>
