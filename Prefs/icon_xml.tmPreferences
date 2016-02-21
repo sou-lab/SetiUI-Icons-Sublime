@@ -3,7 +3,7 @@
 <plist version="1.0">
     <dict>
         <key>scope</key>
-        <string>source.xml</string>
+        <string>text.xml, source.xml</string>
         <key>settings</key>
         <dict>
             <key>icon</key>
