@@ -22,7 +22,7 @@ When using theme the [Theme - itg.flat](https://github.com/itsthatguy/theme-itg-
 - Seti UI port by [ctf0](https://github.com/ctf0/Seti_ST3)
 - Theme is originally by [jesseweed](https://github.com/jesseweed/seti-ui) for Github's Atom editor.
 
-# Notes
+## Notes
 - There is a folder included with some files types from `jesseweed` and `DanBrooker` to test the icons.
 - Anything less than 'ST3 Build 3103' wont get the sidebar icons to work.
 
@@ -31,3 +31,6 @@ When using theme the [Theme - itg.flat](https://github.com/itsthatguy/theme-itg-
 - No file icon in the opened tabs, ST lacks this.
 - Not as icon rich as the original because ST can't see anything other than Extensions ,and even though its still hard to use the icon you want.
 
+
+## Another Themes
+- [Default Theme](https://github.com/sou-lab/Sublime-Text-Default-Theme-Side-Bar-Icons/)
